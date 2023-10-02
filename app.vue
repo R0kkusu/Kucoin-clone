@@ -12,7 +12,7 @@
 
 <template>
 <!--  <ClientOnly> -->
-    < <Header />
+     <Header />
     <Cover />
     <CryptoMarket />
     <ExploreProducts />
